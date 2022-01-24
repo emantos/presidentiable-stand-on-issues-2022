@@ -1,4 +1,4 @@
-# Presidential Candidate's Stand on Issues
+# 2022 Presidential Candidate's Stand on Various Issues
 A comparison of the various stands of the presidential candidates for the 2022 Philippines elections
 
 | Issue         | Lacson        | Moreno        | Pacquiao      | Robredo       |
