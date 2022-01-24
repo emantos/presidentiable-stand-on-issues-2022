@@ -26,3 +26,5 @@ A comparison of the various stands of the presidential candidates for the 2022 P
 | Should the ICC prosecute President Duterte ?  | Yes | No | Yes (if proven guilty) | Yes/No |
 | Two-party or multi-party system ?  | Two-party | Two-party | Two-party | Two-party |
 | Parliamentary or Presidential ?  | Presidential | Presidential | Parliamentary | Presidential |
+
+* Credit to the person who made the spreadsheet.
