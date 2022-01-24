@@ -27,4 +27,5 @@ A comparison of the various stands of the presidential candidates for the 2022 P
 | Two-party or multi-party system ?  | Two-party | Two-party | Two-party | Two-party |
 | Parliamentary or Presidential ?  | Presidential | Presidential | Parliamentary | Presidential |
 
-* Credit to the person who made the spreadsheet.
+- I got this from Twitter
+- Credits to the person who made the original spreadsheet.  
