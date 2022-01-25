@@ -1,188 +1,692 @@
-{
-  "issues": [
-    {
-      "issue": " Pagbabawal sa subsitution by withdrawal sa paghahain ng kandidatura ng mga tumatakbo ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " No ",
-      "Robredo": " Yes ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Mandatory drug testing sa lahat ng tatakbo ? ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " Yes ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Same-sex Marriage ?  ",
-      "Lacson": " Yes (civil union) ",
-      "Moreno": " No ",
-      "Pacquiao": " No ",
-      "Robredo": " Yes (civil union) ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Divorce ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " No ",
-      "Robredo": " No ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Death penalty ?  ",
-      "Lacson": " No ",
-      "Moreno": " No ",
-      "Pacquiao": " No ",
-      "Robredo": " No ",
-      "Marcos": ""
-    },
-    {
-      "issue": " 100% Foreign Ownership ?  ",
-      "Lacson": " No ",
-      "Moreno": " Yes ",
-      "Pacquiao": " No ",
-      "Robredo": " Yes (to open the discussion) ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Lowering age of criminal liability ?  ",
-      "Lacson": " No ",
-      "Moreno": " No ",
-      "Pacquiao": " No ",
-      "Robredo": " No ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Pagpapatuloy ng VFA between PH at Amerika ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " Yes ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Abolition of PCGG ?  ",
-      "Lacson": " No ",
-      "Moreno": " No ",
-      "Pacquiao": " No ",
-      "Robredo": " No ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Naniniwala ka bang may EJK sa anti-drug war ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " Yes ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Peace talks sa mga CPP/NPA/NDF ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " Yes ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Papayagan mo ba ang mga POGO operations ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " No ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Pagbabawal ng political dynasty ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " Yes ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Legalization of Jueteng ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " No ",
-      "Robredo": " No ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Legalization of medical marijuana (for medical purposes) ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " No ",
-      "Robredo": " Yes ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Pagsasapubliko ng SALN ng mga public official ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " Yes ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Joint exploration (PH & CH) sa West PH Sea ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " Yes (While recognizing arbitral ruling) ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Pagsasapubliko ng medical records ng Pangulo ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " Yes ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Pagbabawal sa pagtakbo ng mga kandidatong may kinakaharap na kaso ?  ",
-      "Lacson": " No ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " Yes (depends on available evidence) ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Pagbabalik ng PH sa ICC ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " Yes ",
-      "Pacquiao": " Yes ",
-      "Robredo": " Yes ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Should the ICC prosecute President Duterte ?  ",
-      "Lacson": " Yes ",
-      "Moreno": " No ",
-      "Pacquiao": " Yes (if proven guilty) ",
-      "Robredo": " Yes/No ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Two-party or multi-party system ?  ",
-      "Lacson": " Two-party ",
-      "Moreno": " Two-party ",
-      "Pacquiao": " Two-party ",
-      "Robredo": " Two-party ",
-      "Marcos": ""
-    },
-    {
-      "issue": " Parliamentary or Presidential ?  ",
-      "Lacson": " Presidential ",
-      "Moreno": " Presidential ",
-      "Pacquiao": " Parliamentary ",
-      "Robredo": " Presidential ",
-      "Marcos": ""
-    }
-  ]
-}
+[
+  {
+    "issue": "Pagbabawal sa subsitution by withdrawal sa paghahain ng kandidatura ng mga tumatakbo ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "No"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Mandatory drug testing sa lahat ng tatakbo ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Same-sex Marriage ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes (civil union)"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "No"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "No"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes (civil union)"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Divorce ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "No"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "No"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Death penalty ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "No"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "No"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "No"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "No"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "100% Foreign Ownership ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "No"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "No"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes (to open the discussion)"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Lowering age of criminal liability ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "No"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "No"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "No"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "No"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Pagpapatuloy ng VFA between PH at Amerika ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Abolition of PCGG ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "No"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "No"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "No"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "No"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Naniniwala ka bang may EJK sa anti-drug war ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Peace talks sa mga CPP/NPA/NDF ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Papayagan mo ba ang mga POGO operations ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "No"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Pagbabawal ng political dynasty ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Legalization of Jueteng ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "No"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "No"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Legalization of medical marijuana (for medical purposes) ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "No"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Pagsasapubliko ng SALN ng mga public official ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Joint exploration (PH & CH) sa West PH Sea ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes (While recognizing arbitral ruling)"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Pagsasapubliko ng medical records ng Pangulo ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Pagbabawal sa pagtakbo ng mga kandidatong may kinakaharap na kaso ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "No"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes (depends on available evidence)"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Pagbabalik ng PH sa ICC ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Should the ICC prosecute President Duterte ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Yes"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "No"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Yes (if proven guilty)"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Yes/No"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Two-party or multi-party system ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Two-party"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Two-party"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Two-party"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Two-party"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "issue": "Parliamentary or Presidential ?",
+    "tags": [
+      "soho",
+      "jessica soho",
+      "jessica"
+    ],
+    "answers": [
+      {
+        "candidate": "Lacson",
+        "answer": "Presidential"
+      },
+      {
+        "candidate": "Moreno",
+        "answer": "Presidential"
+      },
+      {
+        "candidate": "Pacquiao",
+        "answer": "Parliamentary"
+      },
+      {
+        "candidate": "Robredo",
+        "answer": "Presidential"
+      },
+      {
+        "candidate": "Marcos",
+        "answer": ""
+      }
+    ]
+  }
+]
